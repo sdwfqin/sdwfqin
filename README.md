@@ -1,3 +1,5 @@
+[Weibo](https://weibo.com/zhangqin96812) | [Twitter](https://twitter.com/sdwfqin) | [E-Mail](mailto:sdwfqin@icloud.com) | [Website](https://sdwfqin.github.io/)
+
 <div align="center">
   <br>
   <a href="https://sdwfqin.github.io/">
