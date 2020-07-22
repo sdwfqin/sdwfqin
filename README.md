@@ -1,8 +1,6 @@
 <div align="center">
   <br>
   <br>
-  <br>
-  <br>
   <a href="https://sdwfqin.github.io/">
     <img width="60" height="60" src="https://avatars2.githubusercontent.com/u/13191807?s=460&u=056518e1bf3b5f9e7b0d75f855455e0c44d33309&v=4" />
   </a>
@@ -24,6 +22,5 @@
       <img src="https://github-readme-stats.vercel.app/api?username=sdwfqin&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true" />
     </a>
   </p>
-  <br>
   <br>
 </div>
